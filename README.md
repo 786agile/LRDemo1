@@ -1,2 +1,2 @@
-# LRDemo1
+# LRDemo1 Test Repo for LR Sample
 LRDemo1
